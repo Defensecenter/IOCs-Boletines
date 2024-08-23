@@ -70892,3 +70892,9 @@ http://testload.pythonanywhere.com/getbytes/m
 http://testload.pythonanywhere.com/getbytes/s
 https://www.dropbox.com/scl/fi/cw6jsbp981xy88tzk3obm/updateload.rar?rlkey=87g969em599vnoslcglyo97fa&st=1p7dopsl&dl=1
 https://www.dropbox.com/scl/fi/gvlceblluk9thfijhywu2/update.rar?rlkey=ch37ht5fdklng66t04r8h8kaa&st=sddqqvhz&dl=1
+https://cdn.glitch.global/59e3786e-8284-4f16-8844-134b12e58b6f/2.hta?v=1724079719071
+http://91.241.19.49/CRYPS/F3dll.txt
+http://91.241.19.49/CRYP/F3runpe.txt
+http://91.241.19.49/test/new/WX1.txt
+http://173.212.220.247/burjdubai/.jblae/y
+https://github.com/sdvsdv23rbfdb3/kjkj
