@@ -71850,3 +71850,5 @@ https://anoncryptoswap.com
 https://kranknlogie.webflow.io
 https://btfd-coin.com
 https://web3-checking.com
+http://62.113.114.117/api/texts/
+https://en.stockslab.org/symbols/sp500
